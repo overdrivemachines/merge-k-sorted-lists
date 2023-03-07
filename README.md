@@ -33,3 +33,8 @@ k == lists.length
 -10^4 <= lists[i][j] <= 10^4
 lists[i] is sorted in ascending order.
 The sum of lists[i].length will not exceed 10^4.
+
+# Solution
+
+Runtime: 427 ms Beats 10.57%
+Memory: 13 MB Beats 95.42%
